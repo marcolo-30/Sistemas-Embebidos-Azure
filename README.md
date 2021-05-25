@@ -8,6 +8,6 @@ Se requiere un programa que pueda controlar el dispositivo IoT (subir o bajar un
 
 | Documentos     | Links |
 | ------------- | ------------- |
-| Dataset | [Kaggle](https://www.kaggle.com/vmalyi/run-or-walk) |
-| Proyecto  | [Google_Collab](https://colab.research.google.com/drive/17XfecEoHyJtaHT2XdylJL-ltTWkZp9hO#scrollTo=U8ElBlEk0qe0) |
+| Dataset | [Kaggle] |
+| Proyecto  | [Google_Collab] |
 | Demo Funcionamiento |[Demo](https://www.youtube.com/watch?v=_PzddStOZiQ) |
