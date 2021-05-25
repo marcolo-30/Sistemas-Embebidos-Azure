@@ -8,6 +8,6 @@ Los archivos son tomados de la documentacion de Azure y son modificados para el 
 
 | Documentos     | Links |
 | ------------- | ------------- |
-| APP Led| [App.py] | (https://github.com/marcolo-30/Sistemas-Embebidos-Azure/blob/main/App.py)|
-| Dispositivo IoT  | [dispositivoIoT] |()|
+| App Led |[App.py](https://github.com/marcolo-30/Sistemas-Embebidos-Azure/blob/main/App.py) |
+| Dispositivo IoT |[IoTDevice.py](https://github.com/marcolo-30/Sistemas-Embebidos-Azure/blob/main/IoTDevice.py) |
 | Demo Funcionamiento |[Demo](https://www.youtube.com/watch?v=_PzddStOZiQ) |
